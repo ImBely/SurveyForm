@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(141, 158, 255);
+    text-align:center;
+  }
+  
+  form{
+    text-align:center;
+    background-color: rgb(141, 114, 225);
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  
+  input {
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  }
+  
+  .input-element{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  button{
+    background: green;
+    font-style: white;
+  }
+  
+  select{
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button {
+    color: white;
+  }
+  
+  input[type="checkbox"]
